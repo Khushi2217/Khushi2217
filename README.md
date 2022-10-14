@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjs05g6JYXRisGSJugsOqIWO1-09SPUwhsUA&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Khushi Saxena</h1>
 <h3 align="center">A passionate Coder, Developer and Machine Learning Enthusiast from India</h3>
-<img align="right" alt="Coding" width="900" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4OQ67txelHemKrU21uQrMU2EcK-O1R8N8sjvGZbgbmV6gyKof6i5rSNARZST8n2XBpc&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4OQ67txelHemKrU21uQrMU2EcK-O1R8N8sjvGZbgbmV6gyKof6i5rSNARZST8n2XBpc&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi2217&label=Profile%20views&color=0e75b6&style=flat" alt="khushi2217" /> </p>
 
