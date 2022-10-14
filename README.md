@@ -1,9 +1,9 @@
 <p  align="center">
-<img align="justify" src="./a.png" alt="gsanchit01" width=65% height=65%/>
+<img align="justify" src="./a.png" alt="gsanchit01" width=85% height=65%/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Khushi Saxena</h1>
-<h3 align="center">A passionate Coder, Developer and Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Coder, Developer and a Machine Learning Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi2217&label=Profile%20views&color=0e75b6&style=flat" alt="khushi2217" /> </p>
