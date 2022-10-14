@@ -1,5 +1,5 @@
 <p  align="center">
-<img align="justify" src="./a.png" alt="gsanchit01" width=100% height=65%/>
+<img align="justify" src="./banner.jpeg" alt="gsanchit01" width=100% height=65%/>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
