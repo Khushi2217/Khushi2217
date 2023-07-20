@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi2217&label=Profile%20views&color=0e75b6&style=flat" alt="khushi2217" /> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
 - 💬 Ask me about **Python, MySql, ReactJS, Machine Learning**
 
